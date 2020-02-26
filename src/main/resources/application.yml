@@ -6,4 +6,4 @@ spring:
       server:
         git:
           uri: https://github.com/igor-rodrigues2017/micro-services-repo
-          search-paths: fornecedor
+          search-paths: fornecedor, loja
